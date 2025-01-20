@@ -1,3 +1,9 @@
+build/
+*.engine
+*.onnx
+*.nsys-rep
+*.csv
+
 # Prerequisites
 *.d
 
